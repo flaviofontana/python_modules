@@ -1,3 +1,8 @@
+.ipynb_checkpoints/
+*.ipynb
+*.bag
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
